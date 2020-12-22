@@ -1,0 +1,23 @@
+.inicio {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+.span {
+    margin-top: 30px;
+    font-size: 30px;
+    text-align: center; 
+}
+
+.imagens {
+    margin-top: 30px;
+    width: 250px;
+    display: inline-block;    
+}
+
+.p {
+    text-align: center;
+}
+
+

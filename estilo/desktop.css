@@ -1,0 +1,29 @@
+/* classes desktop */
+.clear {clear: both;}
+
+nav.menu-desktop li.selected {
+	font-weight: normal;
+	text-decoration: underline;
+}
+
+nav.menu-desktop {
+	float: right;
+}
+
+nav.menu-desktop ul {
+	position: relative;
+	top: 8px;
+}
+
+nav.menu-desktop li {
+	padding: 0 10px;
+	font-weight: lighter;
+	display: inline-block;
+}
+
+nav.menu-desktop a{
+	color: black;
+	text-decoration: none;
+}
+
+nav.menu-desktop a:hover{text-decoration: underline;}

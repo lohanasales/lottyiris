@@ -1,0 +1,23 @@
+.imagens {
+    width: 33.3%;
+    display: inline-block;
+}
+
+.parceiros p:nth-child(1){
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.img-avatar {
+	display:  inline-block;
+	width: 70px;
+	height: 70px;
+	border-radius: 50%;
+	background-size: 100% 100%;
+}
+
+.avatar-box {
+	margin-top: 16px;
+}

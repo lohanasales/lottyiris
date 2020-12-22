@@ -1,0 +1,17 @@
+.parceiros {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+.parceiros p {
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.imagens {
+    width: 250px;
+    display: inline-block;    
+}
